@@ -1,0 +1,1857 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<script>window.dataLayer = window.dataLayer || []; window.dataLayer.push({"drupalLanguage":"en","drupalCountry":"","siteName":"IFAC","entityCreated":"1530119224","entityLangcode":"en","entityStatus":"1","entityUid":"1","entityUuid":"8cfd9142-acee-4918-ac48-b9eb87d8d9db","entityVid":"81755","entityName":"Admin FFW","entityType":"node","entityBundle":"landing_page","entityId":"836","entityTitle":"Homepage","userUid":0});</script>
+<link rel="canonical" href="https://www.ifac.org/" />
+<link rel="shortlink" href="https://www.ifac.org/" />
+<link rel="image_src" href="/modules/custom/ifac_core/images/share/www_ifac_org.png" />
+<meta property="og:site_name" content="IFAC" />
+<meta property="og:url" content="https://www.ifac.org/homepage" />
+<meta property="og:title" content="Homepage" />
+<meta property="og:image" content="https://www.ifac.org/modules/custom/ifac_core/images/share/www_ifac_org.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Homepage" />
+<meta name="twitter:url" content="https://www.ifac.org/homepage" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script src="/sites/default/files/google_tag/primary/google_tag.script.js?s4koxr" defer></script>
+
+
+        
+    <link rel="icon" href="/themes/custom/ifac_theme/images/favicons/ifac/favicon.ico" type="image/vnd.microsoft.icon">
+    <link rel="apple-touch-icon" sizes="57x57" href="/themes/custom/ifac_theme/images/favicons/ifac/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/themes/custom/ifac_theme/images/favicons/ifac/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/themes/custom/ifac_theme/images/favicons/ifac/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/themes/custom/ifac_theme/images/favicons/ifac/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/themes/custom/ifac_theme/images/favicons/ifac/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/themes/custom/ifac_theme/images/favicons/ifac/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/themes/custom/ifac_theme/images/favicons/ifac/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/themes/custom/ifac_theme/images/favicons/ifac/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/themes/custom/ifac_theme/images/favicons/ifac/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="/themes/custom/ifac_theme/images/favicons/ifac/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/themes/custom/ifac_theme/images/favicons/ifac/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/themes/custom/ifac_theme/images/favicons/ifac/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/themes/custom/ifac_theme/images/favicons/ifac/favicon-16x16.png">
+
+    <title>Homepage | IFAC</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_sl7QUD1H8m-3-HmAxYnsPVDgLlc-msHkQ9qf52aVYeE.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_sPYGy-5GlKsHkqwEM1o7eyL_wvGBPc8_Xr5mBz1UdeE.css" />
+<link rel="stylesheet" media="all" href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;700&amp;family=Noto+Sans:wght@300;400;500;700&amp;display=swap" />
+<link rel="stylesheet" media="all" href="https://use.typekit.net/inc3aby.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_bTc9gUavDGQM20E6YuT_UmrQBCzy5wLO9V4pEPRLNR0.css" />
+
+    
+  </head>
+  <body class="page__body--hero-banner-negative page__body--hero-banner-large theme--default node--landing-page path-frontpage">
+        <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PFCWCTP" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+  
+
+
+
+  
+
+<header role="banner" class="header">
+  
+  
+
+<div class="region region-menu-util">
+  <div class="menu-util">
+    <nav
+      role="navigation"
+       class="region region-menu-util menu-util__nav wrapper"
+    >
+              <a class="link" href="">
+          International Federation of Accountants
+        </a>
+                    <div class="menu-util__menu-list">
+            <div class="menu-util__menu-list-item">
+  
+  <h2 class="visually-hidden">Utility navigation - IFAC</h2>
+  
+  
+              <ul class="menu links-list links-list--horizontal menu-util__menu">
+                          <li class="menu-item links-list__item menu-item--expanded links-list__item--sub">
+                                        <a
+            href="https://www.international-standards.org"
+            class="links-list__link "
+                      >
+            Standard-Setting Boards
+                                      <svg class="icon" aria-hidden="true">
+  <use xlink:href="/themes/custom/ifac_theme/images/svg/icons-sprite.svg#icons--angle-down"></use>
+</svg>
+                      </a>
+
+                                  <button aria-expanded="false" class="links-list__button">
+      <span class="links-list__button-text links-list__button-text--open">
+        open menu
+      </span>
+      <span class="links-list__button-text links-list__button-text--close">
+        close menu
+      </span>
+    </button>
+    <ul class="menu links-list">
+                            <li class="menu-item links-list__item">
+                                        <a
+            href="https://www.international-standards.org"
+            class="links-list__link "
+                      >
+            Home
+                                  </a>
+
+                  </li>
+                      <li class="menu-item links-list__item">
+                                        <a
+            href="https://www.iaasb.org"
+            class="links-list__link "
+                      >
+            IAASB
+                                  </a>
+
+                  </li>
+                      <li class="menu-item links-list__item">
+                                        <a
+            href="https://www.iaesb.org"
+            class="links-list__link "
+                      >
+            IAESB
+                                  </a>
+
+                  </li>
+                      <li class="menu-item links-list__item">
+                                        <a
+            href="https://www.ethicsboard.org"
+            class="links-list__link "
+                      >
+            IESBA
+                                  </a>
+
+                  </li>
+                      <li class="menu-item links-list__item">
+                                        <a
+            href="https://www.ipsasb.org"
+            class="links-list__link "
+                      >
+            IPSASB
+                                  </a>
+
+                  </li>
+          </ul>
+      
+                  </li>
+                      <li class="menu-item links-list__item">
+                                        <a
+            href="/news"
+            class="links-list__link "
+                      >
+            News
+                                  </a>
+
+                  </li>
+                      <li class="menu-item links-list__item">
+                                        <a
+            href="/events"
+            class="links-list__link "
+                      >
+            Events
+                                  </a>
+
+                  </li>
+                      <li class="menu-item links-list__item">
+                                        <a
+            href="/careers"
+            class="links-list__link "
+                      >
+            Careers
+                                  </a>
+
+                  </li>
+                      <li class="menu-item links-list__item">
+                                        <a
+            href="/contact"
+            class="links-list__link "
+                      >
+            Contact
+                                  </a>
+
+                  </li>
+                      <li class="menu-item links-list__item">
+                                        <a
+            href=""
+            class="links-list__link "
+                          id="google_translate_element"
+                      >
+            Language
+                                  </a>
+
+                  </li>
+          </ul>
+      
+
+
+</div>
+  <div class="menu-util__menu-list-item">
+      
+    <h2 class="visually-hidden">User account menu</h2>
+    
+    
+              <ul class="menu links-list links-list--horizontal menu-util__menu">
+                          <li class="menu-item links-list__item">
+                                        <a
+            href="/saml_login?destination=/homepage"
+            class="links-list__link "
+                      >
+            Login or Register
+                                  </a>
+
+                  </li>
+          </ul>
+      
+
+
+  </div>
+
+        </div>
+          </nav>
+  </div>
+</div>
+
+    <div class="region region-menu-main wrapper">
+    <button class="header-toggle">
+      <span class="header-toggle__icon header-toggle__icon--first"></span>
+      <span class="header-toggle__icon header-toggle__icon--second"></span>
+      <span class="header-toggle__icon header-toggle__icon--third"></span>
+      <span class="header-toggle__text header-toggle__text--open">open menu</span>
+      <span class="header-toggle__text header-toggle__text--close">close menu</span>
+    </button>
+    
+  
+<nav
+  role="navigation"
+  aria-labelledby="block-mainnavigationifac-menu"
+   id="block-mainnavigationifac" class="menu-mega menu-mega--default hidden"
+>
+            
+  <h2 class="visually-hidden" id="block-mainnavigationifac-menu">Main navigation - IFAC</h2>
+  
+
+        
+  <ul data-region="menu_main" class="menu menu-level-0 menu-mega__list">
+          
+    <li class="menu-item menu-item--expanded menu-mega__item">
+                                      <a href="/who-we-are/our-purpose" class="link" data-drupal-link-system-path="node/830">Who we are</a>
+              <button aria-expanded="false" class="menu-mega__button">
+          <span class="menu-mega__button-text menu-mega__button-text--open">open menu</span>
+          <span class="menu-mega__button-text menu-mega__button-text--close">close menu</span>
+        </button>
+          
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default menu-mega__below row">
+              <div class="menu-mega__intro col-xs">
+        <h2 class="menu-mega__title">Who we are</h2>
+        <p class="menu-mega__description">We are the global organization for the accountancy profession, comprising 180 member and associate organizations in 135 jurisdictions, representing millions of professional accountants.</p>
+        
+      </div>
+      <div class="menu-mega__submenu col-xs">
+        
+  <ul class="menu menu-level-1 links-list links-list--vertical">
+          
+    <li class="menu-item links-list__item links-list__item--sub">
+                                      <a href="/who-we-are/our-purpose" class="links-list__link" data-drupal-link-system-path="node/830">Our Purpose</a>
+              <button aria-expanded="false" class="menu-mega__button">
+          <span class="menu-mega__button-text menu-mega__button-text--open">open menu</span>
+          <span class="menu-mega__button-text menu-mega__button-text--close">close menu</span>
+        </button>
+        
+        
+  
+
+
+          </li>
+          
+    <li class="menu-item links-list__item links-list__item--sub">
+                                      <a href="/who-we-are/leadership" class="links-list__link" data-drupal-link-system-path="node/865">Leadership</a>
+              <button aria-expanded="false" class="menu-mega__button">
+          <span class="menu-mega__button-text menu-mega__button-text--open">open menu</span>
+          <span class="menu-mega__button-text menu-mega__button-text--close">close menu</span>
+        </button>
+        
+        
+  
+
+
+          </li>
+          
+    <li class="menu-item menu-item--collapsed links-list__item links-list__item--sub">
+                                      <a href="/who-we-are/advisory-groups" class="links-list__link" data-drupal-link-system-path="node/874">Advisory Groups</a>
+              <button aria-expanded="false" class="menu-mega__button">
+          <span class="menu-mega__button-text menu-mega__button-text--open">open menu</span>
+          <span class="menu-mega__button-text menu-mega__button-text--close">close menu</span>
+        </button>
+        
+        
+  
+
+
+          </li>
+          
+    <li class="menu-item links-list__item links-list__item--sub">
+                                      <a href="/who-we-are/membership" class="links-list__link" data-drupal-link-system-path="node/875">Membership</a>
+              <button aria-expanded="false" class="menu-mega__button">
+          <span class="menu-mega__button-text menu-mega__button-text--open">open menu</span>
+          <span class="menu-mega__button-text menu-mega__button-text--close">close menu</span>
+        </button>
+        
+        
+  
+
+
+          </li>
+          
+    <li class="menu-item links-list__item links-list__item--sub">
+                                      <a href="/who-we-are/news" class="links-list__link" data-drupal-link-system-path="node/929">In the News</a>
+              <button aria-expanded="false" class="menu-mega__button">
+          <span class="menu-mega__button-text menu-mega__button-text--open">open menu</span>
+          <span class="menu-mega__button-text menu-mega__button-text--close">close menu</span>
+        </button>
+        
+        
+  
+
+
+          </li>
+          
+    <li class="menu-item links-list__item links-list__item--sub">
+                                      <a href="/who-we-are/operations" class="links-list__link" data-drupal-link-system-path="node/885">Operations</a>
+              <button aria-expanded="false" class="menu-mega__button">
+          <span class="menu-mega__button-text menu-mega__button-text--open">open menu</span>
+          <span class="menu-mega__button-text menu-mega__button-text--close">close menu</span>
+        </button>
+        
+        
+  
+
+
+          </li>
+          
+    <li class="menu-item links-list__item links-list__item--sub">
+                                      <a href="/careers" class="links-list__link" data-drupal-link-system-path="node/876">Careers</a>
+              <button aria-expanded="false" class="menu-mega__button">
+          <span class="menu-mega__button-text menu-mega__button-text--open">open menu</span>
+          <span class="menu-mega__button-text menu-mega__button-text--close">close menu</span>
+        </button>
+        
+        
+  
+
+
+          </li>
+    </ul>
+
+
+
+      </div>
+      <div class="menu-mega__img col-xs">
+          <img loading="lazy" src="/sites/default/files/styles/382x254/public/2023-03/Our-purpose-banner.jpg?itok=AWiY7WbO" width="382" height="254" alt="Table of business people, zeroed in on one man speaking" />
+
+
+
+      </div>
+      </div>
+
+
+
+          </li>
+          
+    <li class="menu-item menu-item--expanded menu-mega__item">
+                                      <a href="/what-we-do" class="link" data-drupal-link-system-path="node/745">What we do</a>
+              <button aria-expanded="false" class="menu-mega__button">
+          <span class="menu-mega__button-text menu-mega__button-text--open">open menu</span>
+          <span class="menu-mega__button-text menu-mega__button-text--close">close menu</span>
+        </button>
+          
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default menu-mega__below row">
+              <div class="menu-mega__intro col-xs">
+        <h2 class="menu-mega__title">What we do</h2>
+        <p class="menu-mega__description">We support the development, adoption, and implementation of high-quality international standards. We work to prepare a future-ready accounting profession. We speak out as the voice of the global accounting profession.</p>
+        
+      </div>
+      <div class="menu-mega__submenu col-xs">
+        
+  <ul class="menu menu-level-1 links-list links-list--vertical">
+          
+    <li class="menu-item menu-item--collapsed links-list__item links-list__item--sub">
+                                      <a href="/what-we-do/global-impact-map/members-associates" class="links-list__link" data-drupal-link-system-path="node/27740">Global Impact Map</a>
+              <button aria-expanded="false" class="menu-mega__button">
+          <span class="menu-mega__button-text menu-mega__button-text--open">open menu</span>
+          <span class="menu-mega__button-text menu-mega__button-text--close">close menu</span>
+        </button>
+        
+        
+  
+
+
+          </li>
+          
+    <li class="menu-item menu-item--expanded links-list__item links-list__item--sub">
+                                      <a href="/what-we-do/supporting-international-standards" class="links-list__link" data-drupal-link-system-path="node/891">Supporting International Standards</a>
+              <button aria-expanded="false" class="menu-mega__button">
+          <span class="menu-mega__button-text menu-mega__button-text--open">open menu</span>
+          <span class="menu-mega__button-text menu-mega__button-text--close">close menu</span>
+        </button>
+        
+        
+  <ul class="menu menu-level-2 links-list links-list--vertical">
+          
+    <li class="menu-item links-list__item">
+                                      <a href="/e-international-standards" class="links-list__link" data-drupal-link-system-path="node/937">e-International Standards</a>
+              <button aria-expanded="false" class="menu-mega__button">
+          <span class="menu-mega__button-text menu-mega__button-text--open">open menu</span>
+          <span class="menu-mega__button-text menu-mega__button-text--close">close menu</span>
+        </button>
+        
+        
+  
+
+
+          </li>
+          
+    <li class="menu-item links-list__item">
+                                      <a href="/translations-database" class="links-list__link" data-drupal-link-system-path="node/905">Translations Database</a>
+              <button aria-expanded="false" class="menu-mega__button">
+          <span class="menu-mega__button-text menu-mega__button-text--open">open menu</span>
+          <span class="menu-mega__button-text menu-mega__button-text--close">close menu</span>
+        </button>
+        
+        
+  
+
+
+          </li>
+          
+    <li class="menu-item links-list__item">
+                                      <a href="https://pathways.ifac.org/" class="links-list__link">Pathways to Accrual</a>
+              <button aria-expanded="false" class="menu-mega__button">
+          <span class="menu-mega__button-text menu-mega__button-text--open">open menu</span>
+          <span class="menu-mega__button-text menu-mega__button-text--close">close menu</span>
+        </button>
+        
+        
+  
+
+
+          </li>
+    </ul>
+
+
+
+  
+
+
+          </li>
+          
+    <li class="menu-item menu-item--expanded links-list__item links-list__item--sub">
+                                      <a href="/what-we-do/preparing-future-ready-profession" class="links-list__link" data-drupal-link-system-path="node/886">Preparing a Future-Ready Profession</a>
+              <button aria-expanded="false" class="menu-mega__button">
+          <span class="menu-mega__button-text menu-mega__button-text--open">open menu</span>
+          <span class="menu-mega__button-text menu-mega__button-text--close">close menu</span>
+        </button>
+        
+        
+  <ul class="menu menu-level-2 links-list links-list--vertical">
+          
+    <li class="menu-item links-list__item">
+                                      <a href="https://education.ifac.org/index.html" class="links-list__link">Accountancy Education E-Tool</a>
+              <button aria-expanded="false" class="menu-mega__button">
+          <span class="menu-mega__button-text menu-mega__button-text--open">open menu</span>
+          <span class="menu-mega__button-text menu-mega__button-text--close">close menu</span>
+        </button>
+        
+        
+  
+
+
+          </li>
+    </ul>
+
+
+
+  
+
+
+          </li>
+          
+    <li class="menu-item menu-item--expanded links-list__item links-list__item--sub">
+                                      <a href="/what-we-do/speaking-out-global-voice" class="links-list__link" data-drupal-link-system-path="node/887">Speaking Out as the Global Voice</a>
+              <button aria-expanded="false" class="menu-mega__button">
+          <span class="menu-mega__button-text menu-mega__button-text--open">open menu</span>
+          <span class="menu-mega__button-text menu-mega__button-text--close">close menu</span>
+        </button>
+        
+        
+  <ul class="menu menu-level-2 links-list links-list--vertical">
+          
+    <li class="menu-item links-list__item">
+                                      <a href="/what-we-do/speak-out-global-voice/ifacs-points-view" class="links-list__link" data-drupal-link-system-path="node/904">IFAC&#039;s Points of View</a>
+              <button aria-expanded="false" class="menu-mega__button">
+          <span class="menu-mega__button-text menu-mega__button-text--open">open menu</span>
+          <span class="menu-mega__button-text menu-mega__button-text--close">close menu</span>
+        </button>
+        
+        
+  
+
+
+          </li>
+    </ul>
+
+
+
+  
+
+
+          </li>
+    </ul>
+
+
+
+      </div>
+      <div class="menu-mega__img col-xs">
+          <img loading="lazy" src="/sites/default/files/styles/382x254/public/2023-03/speaking-out-global-voice.jpg?itok=Tm2qz8lr" width="382" height="254" alt="Man standing, leaning on table of colleagues, speaking" />
+
+
+
+      </div>
+      </div>
+
+
+
+          </li>
+          
+    <li class="menu-item menu-item--expanded menu-mega__item">
+                                      <a href="/knowledge-gateway" class="link" data-drupal-link-system-path="node/827">Knowledge gateway</a>
+              <button aria-expanded="false" class="menu-mega__button">
+          <span class="menu-mega__button-text menu-mega__button-text--open">open menu</span>
+          <span class="menu-mega__button-text menu-mega__button-text--close">close menu</span>
+        </button>
+          
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default menu-mega__below row">
+              <div class="menu-mega__intro col-xs">
+        <h2 class="menu-mega__title">Gateway</h2>
+        <p class="menu-mega__description">Insights, resources and tools from leading voices in accountancy and business.</p>
+        
+      </div>
+      <div class="menu-mega__submenu col-xs">
+        
+  <ul class="menu menu-level-1 links-list links-list--vertical">
+          
+    <li class="menu-item links-list__item links-list__item--sub">
+                                      <a href="/knowledge-gateway/supporting-international-standards" class="links-list__link" data-drupal-link-system-path="taxonomy/term/265">Supporting International Standards</a>
+              <button aria-expanded="false" class="menu-mega__button">
+          <span class="menu-mega__button-text menu-mega__button-text--open">open menu</span>
+          <span class="menu-mega__button-text menu-mega__button-text--close">close menu</span>
+        </button>
+        
+        
+  
+
+
+          </li>
+          
+    <li class="menu-item links-list__item links-list__item--sub">
+                                      <a href="/knowledge-gateway/contributing-global-economy" class="links-list__link" data-drupal-link-system-path="taxonomy/term/266">Contributing to the Global Economy</a>
+              <button aria-expanded="false" class="menu-mega__button">
+          <span class="menu-mega__button-text menu-mega__button-text--open">open menu</span>
+          <span class="menu-mega__button-text menu-mega__button-text--close">close menu</span>
+        </button>
+        
+        
+  
+
+
+          </li>
+          
+    <li class="menu-item links-list__item links-list__item--sub">
+                                      <a href="/knowledge-gateway/building-trust-ethics" class="links-list__link" data-drupal-link-system-path="taxonomy/term/267">Building Trust &amp; Ethics</a>
+              <button aria-expanded="false" class="menu-mega__button">
+          <span class="menu-mega__button-text menu-mega__button-text--open">open menu</span>
+          <span class="menu-mega__button-text menu-mega__button-text--close">close menu</span>
+        </button>
+        
+        
+  
+
+
+          </li>
+          
+    <li class="menu-item links-list__item links-list__item--sub">
+                                      <a href="/knowledge-gateway/developing-accountancy-profession" class="links-list__link" data-drupal-link-system-path="taxonomy/term/268">Developing the Accountancy Profession</a>
+              <button aria-expanded="false" class="menu-mega__button">
+          <span class="menu-mega__button-text menu-mega__button-text--open">open menu</span>
+          <span class="menu-mega__button-text menu-mega__button-text--close">close menu</span>
+        </button>
+        
+        
+  
+
+
+          </li>
+          
+    <li class="menu-item links-list__item links-list__item--sub">
+                                      <a href="/knowledge-gateway/preparing-future-ready-professionals" class="links-list__link" data-drupal-link-system-path="taxonomy/term/269">Preparing Future-Ready Professionals</a>
+              <button aria-expanded="false" class="menu-mega__button">
+          <span class="menu-mega__button-text menu-mega__button-text--open">open menu</span>
+          <span class="menu-mega__button-text menu-mega__button-text--close">close menu</span>
+        </button>
+        
+        
+  
+
+
+          </li>
+    </ul>
+
+
+
+      </div>
+      <div class="menu-mega__img col-xs">
+          <img loading="lazy" src="/sites/default/files/styles/382x254/public/2023-02/Gateway-hero-image.jpg?itok=kqrl61TM" width="382" height="254" alt="Blue shot of earth from space" />
+
+
+
+      </div>
+      </div>
+
+
+
+          </li>
+    </ul>
+
+
+  </nav>
+  <a href="/" class="header__logo-link" rel="home">
+    <img class="header__logo" src="/themes/custom/ifac_theme/images/logo/IFAC.png" alt="Home" />
+    <img class="header__logo-mobile" src="/themes/custom/ifac_theme/images/logo/IFAC-mobile.png" alt="Home" />
+  </a>
+
+
+  
+
+<div class="search-api-form search-form" data-drupal-selector="search-api-form" id="block-search-api-form">
+  
+    
+  <div class="search-form__form-wrap hidden">
+          <form action="/search" method="get" id="search-api-form" accept-charset="UTF-8" class="search-form__form">
+  <div class="js-form-item form-item form-type-search js-form-type-search form-item-keys js-form-item-keys form-no-label">
+      <label for="edit-keys--5" class="visually-hidden">Search</label>
+          <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys--5" name="keys" value="" size="15" maxlength="128" placeholder="" class="form-search form-input" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--5">  <input data-drupal-selector="edit-submit" type="submit" id="edit-submit--2" value="Search" class="button js-form-submit form-submit form-input" />
+</div>
+
+  <button value="Submit" type="submit" class="search-form__submit">
+    Submit form
+    <svg class="icon" aria-hidden="true">
+  <use xlink:href="/themes/custom/ifac_theme/images/svg/icons-sprite.svg#icons--search"></use>
+</svg>
+  </button>
+</form>
+<button class="search-form__close">
+  <svg class="icon" aria-hidden="true">
+  <use xlink:href="/themes/custom/ifac_theme/images/svg/icons-sprite.svg#icons--close"></use>
+</svg>
+  Close search form
+</button>
+
+      </div>
+  <button class="search-form__open">
+    <svg class="icon" aria-hidden="true">
+  <use xlink:href="/themes/custom/ifac_theme/images/svg/icons-sprite.svg#icons--search"></use>
+</svg>
+    Search
+  </button>
+</div>
+
+  </div>
+
+</header>
+
+<div class="region-pre-title-wrap">
+        <div data-drupal-messages-fallback class="hidden"></div>
+
+  <article role="article" style="background:url(/sites/default/files/2023-02/Homepage-hero-white-fade.png) left top no-repeat;background-size:cover" class="hero-banner--large hero-banner-- hero-banner">
+  <div class="wrapper container-fluid">
+    <div class="
+      row
+      end-xs
+      
+    ">
+      <div class="col col-xs-12 col-md-6">
+                  <div class="hero-banner__blurb--bg-white text-left color-light hero-banner__blurb hero-banner__blurb--bg">
+            <h1 class="hero-banner__headline">Global. Influential. Trusted.</h1>
+                        <p class="hero-banner__subtle h3">We are the global voice for the accountancy profession. We serve the public interest through advocacy, development, and support for our member organizations &amp; the millions of professional accountants around the world who are crucial to our global economy.</p>
+      
+          </div>
+              </div>
+    </div>
+  </div>
+</article>
+
+
+    
+</div>
+
+<main role="main" class="main-content wrapper container-fluid">
+  <a id="main-content" tabindex="-1"></a>  <div class="row row--col-out">
+    
+          <div class="main-content__content col-xs-12 col--fluid no-sidebars">
+          <div class="region region-content wrapper container-fluid">
+    <div id="block-ifac-theme-content">
+  
+    
+      <article role="article">
+
+  
+    
+
+  
+  <div class="node-default-content">
+    
+            
+
+
+
+<div  class="paragraph paragraph--type--carousel-resource-cards paragraph--view-mode--default carousel carousel--no-title carousel--shadow-cards carousel--additional">
+  <section class="splide" aria-labelledby="">
+          <div class="carousel__additional js-carousel__additional">
+                  
+          <form class="ifac-core-search-resource-form" data-drupal-selector="ifac-core-search-resource-form" action="/knowledge-gateway/view-all-knowledge-gateway-data" method="get" id="ifac-core-search-resource-form" accept-charset="UTF-8">
+    <input data-drupal-selector="edit-content-type" type="hidden" name="content-type" value="discussion" class="form-input" />
+  <input data-drupal-selector="edit-language" type="hidden" name="language" value="399" class="form-input" />
+  <input data-drupal-selector="edit-category" type="hidden" name="category" value="All" class="form-input" />
+<div class="js-form-item form-item form-type-search js-form-type-search form-item-search js-form-item-search form-no-label">
+      <label for="edit-search" class="visually-hidden">Search</label>
+          <input data-drupal-selector="edit-search" type="search" id="edit-search" name="search" value="" size="60" maxlength="128" class="form-search form-input" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions">  <button  data-drupal-selector="edit-submit" type="submit" id="edit-submit" class="button js-form-submit form-submit" >
+    Search
+    <svg class="icon" aria-hidden="true">
+  <use xlink:href="/themes/custom/ifac_theme/images/svg/icons-sprite.svg#icons--search"></use>
+</svg>
+  </button>
+  
+</div>
+
+</form>
+
+                          <a href="/knowledge-gateway/view-all-knowledge-gateway-data?content-type=discussion&amp;language=All&amp;category=All&amp;search=" class="link--icon">
+  View All
+  <svg class="icon" aria-hidden="true">
+  <use xlink:href="/themes/custom/ifac_theme/images/svg/icons-sprite.svg#icons--arrow-forward-sharp"></use>
+</svg>
+</a>
+              </div>
+        
+              <div class="splide__track">
+        <ul class="splide__list">
+                      <li class="splide__slide">
+              
+  
+
+
+  
+<article role="article" class="card card--vertical card--resource card--with-img card--layout-left">
+              <div class="card__category bg--orange">
+    <a href="/knowledge-gateway/preparing-future-ready-professionals" hreflang="en">Preparing Future-Ready Professionals</a>
+  </div>
+
+  
+            <a href="/knowledge-gateway/preparing-future-ready-professionals/discussion/case-study-connecting-finance-and-sustainability-jaguar-land-rover-jlr-automotive-plc" class="card__link" target="_self">
+        <h3 class="card__title">
+      Case Study: Connecting Finance and Sustainability at Jaguar Land Rover (JLR) Automotive PLC 
+    </h3>
+          </a>
+        
+            <div class="card__picture">
+        <a href="/knowledge-gateway/preparing-future-ready-professionals/discussion/case-study-connecting-finance-and-sustainability-jaguar-land-rover-jlr-automotive-plc" target="_self">
+          
+<div>
+
+                <picture>
+                  <source srcset="/sites/default/files/styles/371x278/public/2023-11/land-rover.jpg?itok=6s5VniQ2 1x, /sites/default/files/styles/371x278_x2/public/2023-11/land-rover.jpg?itok=coXqzpjw 2x" media="all and (min-width: 992px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/640x480/public/2023-11/land-rover.jpg?itok=bIm7QIu2 1x, /sites/default/files/styles/640x480_x2/public/2023-11/land-rover.jpg?itok=wpZVusGS 2x" media="all and (max-width: 768px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/268x201/public/2023-11/land-rover.jpg?itok=tXqWZ9-X 1x, /sites/default/files/styles/268x201_x2/public/2023-11/land-rover.jpg?itok=Fd1iUAzH 2x" media="all and (max-width: 992px)" type="image/jpeg"/>
+                  <img src="/sites/default/files/styles/640x480/public/2023-11/land-rover.jpg?itok=bIm7QIu2" alt="pic-land-rover" />
+
+  </picture>
+
+
+      
+</div>
+          
+        </a>
+      </div>
+      
+  <div class="card__text">
+    <div class="card__date">
+              November 13, 2023
+                    <span class="card__meta">
+          &nbsp;|&nbsp;     <a href="/who-we-are/leadership/stathis-gould" hreflang="und">Stathis Gould</a>
+  
+        </span>
+          </div>
+    <ul class="card__tags">
+              <li class="card__tags-item"><a href="/knowledge-gateway/tags/cfo-finance-function" class="card__tags-item-link" title="CFO &amp; Finance Function">CFO &amp; Finance Function</a>
+</li>
+      <li class="card__tags-item"><a href="/knowledge-gateway/tags/cfo-finance-function/paib" class="card__tags-item-link" title="PAIB">PAIB</a>
+</li>
+      <li class="card__tags-item"><a href="/knowledge-gateway/tags/sustainability" class="card__tags-item-link" title="Sustainability">Sustainability</a>
+</li>
+  </ul>
+
+  </div>
+    
+</article>
+
+            </li>
+                      <li class="splide__slide">
+              
+  
+
+
+  
+<article role="article" class="card card--vertical card--resource card--with-img card--layout-left">
+              <div class="card__category bg--orange">
+    <a href="/knowledge-gateway/preparing-future-ready-professionals" hreflang="en">Preparing Future-Ready Professionals</a>
+  </div>
+
+  
+            <a href="/knowledge-gateway/preparing-future-ready-professionals/discussion/isca-s-expanded-pathways-provide-new-avenues-widen-membership" class="card__link" target="_self">
+        <h3 class="card__title">
+      ISCA’s Expanded Pathways Provide New Avenues to  Widen Membership
+    </h3>
+          </a>
+        
+            <div class="card__picture">
+        <a href="/knowledge-gateway/preparing-future-ready-professionals/discussion/isca-s-expanded-pathways-provide-new-avenues-widen-membership" target="_self">
+          
+<div>
+
+                <picture>
+                  <source srcset="/sites/default/files/styles/371x278/public/2023-11/Man%20walking%20in%20Singapore.jpg?itok=rPQaAaoD 1x, /sites/default/files/styles/371x278_x2/public/2023-11/Man%20walking%20in%20Singapore.jpg?itok=jpX6jMYs 2x" media="all and (min-width: 992px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/640x480/public/2023-11/Man%20walking%20in%20Singapore.jpg?itok=VMGLTN2j 1x, /sites/default/files/styles/640x480_x2/public/2023-11/Man%20walking%20in%20Singapore.jpg?itok=kVSASAEG 2x" media="all and (max-width: 768px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/268x201/public/2023-11/Man%20walking%20in%20Singapore.jpg?itok=ZVw2NUku 1x, /sites/default/files/styles/268x201_x2/public/2023-11/Man%20walking%20in%20Singapore.jpg?itok=VsWfg0xE 2x" media="all and (max-width: 992px)" type="image/jpeg"/>
+                  <img src="/sites/default/files/styles/640x480/public/2023-11/Man%20walking%20in%20Singapore.jpg?itok=VMGLTN2j" alt="Man walking in Singapore" />
+
+  </picture>
+
+
+      
+</div>
+          
+        </a>
+      </div>
+      
+  <div class="card__text">
+    <div class="card__date">
+              November 9, 2023
+                    <span class="card__meta">
+          &nbsp;|&nbsp;     <a href="/who-we-are/soh-suat-lay" hreflang="en">Soh Suat Lay</a>, <a href="/who-we-are/tanya-musumhi" hreflang="en">Tanya Musumhi</a>, <a href="/who-we-are/annie-brinich" hreflang="en">Annie Brinich</a>
+  
+        </span>
+          </div>
+    <ul class="card__tags">
+              <li class="card__tags-item"><a href="/knowledge-gateway/tags/pao-resilience-adaptability" class="card__tags-item-link" title="PAO Resilience &amp; Adaptability">PAO Resilience &amp; Adaptability</a>
+</li>
+      <li class="card__tags-item"><a href="/knowledge-gateway/tags/pao-resilience-adaptability/attractiveness-profession" class="card__tags-item-link" title="Attractiveness of the Profession">Attractiveness of the Profession</a>
+</li>
+      <li class="card__tags-item"><a href="/knowledge-gateway/tags/pao-resilience-adaptability/talent-management" class="card__tags-item-link" title="Talent Management">Talent Management</a>
+</li>
+  </ul>
+
+  </div>
+    
+</article>
+
+            </li>
+                      <li class="splide__slide">
+              
+  
+
+
+  
+<article role="article" class="card card--vertical card--resource card--with-img card--layout-left">
+              <div class="card__category bg--green">
+    <a href="/knowledge-gateway/supporting-international-standards" hreflang="en">Supporting International Standards</a>
+  </div>
+
+  
+            <a href="/knowledge-gateway/supporting-international-standards/discussion/ifac-signs-climate-declaration-support-new-issb-standards-and-calls-paos-join" class="card__link" target="_self">
+        <h3 class="card__title">
+      IFAC Signs Climate Declaration in Support of New ISSB Standards and Calls on PAOs to Join
+    </h3>
+          </a>
+        
+            <div class="card__picture">
+        <a href="/knowledge-gateway/supporting-international-standards/discussion/ifac-signs-climate-declaration-support-new-issb-standards-and-calls-paos-join" target="_self">
+          
+<div>
+
+                <picture>
+                  <source srcset="/sites/default/files/styles/371x278/public/2023-11/pexels-nothing-ahead-3571563.jpg?itok=BXhpZv-l 1x, /sites/default/files/styles/371x278_x2/public/2023-11/pexels-nothing-ahead-3571563.jpg?itok=yL9c4Brc 2x" media="all and (min-width: 992px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/640x480/public/2023-11/pexels-nothing-ahead-3571563.jpg?itok=HQMnY8kQ 1x, /sites/default/files/styles/640x480_x2/public/2023-11/pexels-nothing-ahead-3571563.jpg?itok=CkJFYYAD 2x" media="all and (max-width: 768px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/268x201/public/2023-11/pexels-nothing-ahead-3571563.jpg?itok=Kpij-m9i 1x, /sites/default/files/styles/268x201_x2/public/2023-11/pexels-nothing-ahead-3571563.jpg?itok=2wH1rvF5 2x" media="all and (max-width: 992px)" type="image/jpeg"/>
+                  <img src="/sites/default/files/styles/640x480/public/2023-11/pexels-nothing-ahead-3571563.jpg?itok=HQMnY8kQ" alt="Green plant leaves" />
+
+  </picture>
+
+
+      
+</div>
+          
+        </a>
+      </div>
+      
+  <div class="card__text">
+    <div class="card__date">
+              November 8, 2023
+                    <span class="card__meta">
+          &nbsp;|&nbsp;     <a href="/who-we-are/leadership/kevin-dancey" hreflang="en">Kevin Dancey</a>, <a href="/who-we-are/leadership/david-madon" hreflang="en">David Madon</a>
+  
+        </span>
+          </div>
+    <ul class="card__tags">
+              <li class="card__tags-item"><a href="/knowledge-gateway/tags/business-reporting/sustainability-reporting" class="card__tags-item-link" title="Sustainability Reporting">Sustainability Reporting</a>
+</li>
+      <li class="card__tags-item"><a href="/knowledge-gateway/tags/sustainability" class="card__tags-item-link" title="Sustainability">Sustainability</a>
+</li>
+  </ul>
+
+  </div>
+    
+</article>
+
+            </li>
+                      <li class="splide__slide">
+              
+  
+
+
+
+<article role="article" class="card card--vertical card--resource card--with-img card--layout-left">
+              <div class="card__category bg--green">
+    <a href="/knowledge-gateway/supporting-international-standards" hreflang="en">Supporting International Standards</a>
+  </div>
+
+  
+            <a href="/knowledge-gateway/supporting-international-standards/discussion/demand-booms-high-quality-reporting-assurance-and-other-takeaways-ifac-sustainability-summit-asia" class="card__link" target="_self">
+        <h3 class="card__title">
+      Demand Booms for High-Quality Reporting &amp; Assurance and Other Takeaways of IFAC Sustainability Summit-Asia Pacific
+    </h3>
+          </a>
+        
+            <div class="card__picture">
+        <a href="/knowledge-gateway/supporting-international-standards/discussion/demand-booms-high-quality-reporting-assurance-and-other-takeaways-ifac-sustainability-summit-asia" target="_self">
+          
+<div>
+
+                <picture>
+                  <source srcset="/sites/default/files/styles/371x278/public/2023-11/pexels-malindu-warapitiya-2694104.jpg?itok=DhH410yH 1x, /sites/default/files/styles/371x278_x2/public/2023-11/pexels-malindu-warapitiya-2694104.jpg?itok=YNqSVkDN 2x" media="all and (min-width: 992px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/640x480/public/2023-11/pexels-malindu-warapitiya-2694104.jpg?itok=LqaaFfyt 1x, /sites/default/files/styles/640x480_x2/public/2023-11/pexels-malindu-warapitiya-2694104.jpg?itok=Z2RZniQ9 2x" media="all and (max-width: 768px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/268x201/public/2023-11/pexels-malindu-warapitiya-2694104.jpg?itok=SAfJ1Y4s 1x, /sites/default/files/styles/268x201_x2/public/2023-11/pexels-malindu-warapitiya-2694104.jpg?itok=pcBmDpoL 2x" media="all and (max-width: 992px)" type="image/jpeg"/>
+                  <img src="/sites/default/files/styles/640x480/public/2023-11/pexels-malindu-warapitiya-2694104.jpg?itok=LqaaFfyt" alt="Singapore waterfall" />
+
+  </picture>
+
+
+      
+</div>
+          
+        </a>
+      </div>
+      
+  <div class="card__text">
+    <div class="card__date">
+              November 7, 2023
+                </div>
+    <ul class="card__tags">
+              <li class="card__tags-item"><a href="/knowledge-gateway/tags/audit-assurance" class="card__tags-item-link" title="Audit &amp; Assurance">Audit &amp; Assurance</a>
+</li>
+      <li class="card__tags-item"><a href="/knowledge-gateway/tags/business-reporting/sustainability-reporting" class="card__tags-item-link" title="Sustainability Reporting">Sustainability Reporting</a>
+</li>
+  </ul>
+
+  </div>
+    
+</article>
+
+            </li>
+                      <li class="splide__slide">
+              
+  
+
+
+
+<article role="article" class="card card--vertical card--resource card--with-img card--layout-left">
+              <div class="card__category bg--green">
+    <a href="/knowledge-gateway/supporting-international-standards" hreflang="en">Supporting International Standards</a>
+  </div>
+
+  
+            <a href="/knowledge-gateway/supporting-international-standards/discussion/quality-management" class="card__link" target="_self">
+        <h3 class="card__title">
+      Quality Management
+    </h3>
+          </a>
+        
+            <div class="card__picture">
+        <a href="/knowledge-gateway/supporting-international-standards/discussion/quality-management" target="_self">
+          
+<div>
+
+                <picture>
+                  <source srcset="/sites/default/files/styles/371x278/public/2023-11/IFAC-CAANZ-quality-management-toolkit-thumbnail.png?itok=8aejfc3z 1x, /sites/default/files/styles/371x278_x2/public/2023-11/IFAC-CAANZ-quality-management-toolkit-thumbnail.png?itok=rGPVS0kc 2x" media="all and (min-width: 992px)" type="image/png"/>
+              <source srcset="/sites/default/files/styles/640x480/public/2023-11/IFAC-CAANZ-quality-management-toolkit-thumbnail.png?itok=Rc_1N6rL 1x, /sites/default/files/styles/640x480_x2/public/2023-11/IFAC-CAANZ-quality-management-toolkit-thumbnail.png?itok=16uH0kWK 2x" media="all and (max-width: 768px)" type="image/png"/>
+              <source srcset="/sites/default/files/styles/268x201/public/2023-11/IFAC-CAANZ-quality-management-toolkit-thumbnail.png?itok=aIfvh4md 1x, /sites/default/files/styles/268x201_x2/public/2023-11/IFAC-CAANZ-quality-management-toolkit-thumbnail.png?itok=tRYuaSeD 2x" media="all and (max-width: 992px)" type="image/png"/>
+                  <img src="/sites/default/files/styles/640x480/public/2023-11/IFAC-CAANZ-quality-management-toolkit-thumbnail.png?itok=Rc_1N6rL" alt="Blue and yellow arrows" />
+
+  </picture>
+
+
+      
+</div>
+          
+        </a>
+      </div>
+      
+  <div class="card__text">
+    <div class="card__date">
+              November 6, 2023
+                </div>
+    <ul class="card__tags">
+              <li class="card__tags-item"><a href="/knowledge-gateway/tags/audit-assurance" class="card__tags-item-link" title="Audit &amp; Assurance">Audit &amp; Assurance</a>
+</li>
+      <li class="card__tags-item"><a href="/knowledge-gateway/tags/audit-assurance/quality-control/quality-management/quality-assurance" class="card__tags-item-link" title="Quality Control / Quality Management /Quality Assurance">Quality Control / Quality Management /Quality Assurance</a>
+</li>
+      <li class="card__tags-item"><a href="/knowledge-gateway/tags/pao-resilience-adaptability" class="card__tags-item-link" title="PAO Resilience &amp; Adaptability">PAO Resilience &amp; Adaptability</a>
+</li>
+  </ul>
+
+  </div>
+    
+</article>
+
+            </li>
+                      <li class="splide__slide">
+              
+  
+
+
+
+<article role="article" class="card card--vertical card--resource card--with-img card--layout-left">
+              <div class="card__category bg--blue">
+    <a href="/knowledge-gateway/developing-accountancy-profession" hreflang="en">Developing the Accountancy Profession</a>
+  </div>
+
+  
+            <a href="/knowledge-gateway/developing-accountancy-profession/discussion/meet-changemaking-leaders-ifac-s-network-partners" class="card__link" target="_self">
+        <h3 class="card__title">
+      Meet the Changemaking Leaders of IFAC’s Network Partners
+    </h3>
+          </a>
+        
+            <div class="card__picture">
+        <a href="/knowledge-gateway/developing-accountancy-profession/discussion/meet-changemaking-leaders-ifac-s-network-partners" target="_self">
+          
+<div>
+
+                <picture>
+                  <source srcset="/sites/default/files/styles/371x278/public/2023-03/DEI-heads-red.png?itok=mx6Ch9VR 1x, /sites/default/files/styles/371x278_x2/public/2023-03/DEI-heads-red.png?itok=O0m73CWs 2x" media="all and (min-width: 992px)" type="image/png"/>
+              <source srcset="/sites/default/files/styles/640x480/public/2023-03/DEI-heads-red.png?itok=KlhnYgav 1x, /sites/default/files/styles/640x480_x2/public/2023-03/DEI-heads-red.png?itok=wj7qb5mN 2x" media="all and (max-width: 768px)" type="image/png"/>
+              <source srcset="/sites/default/files/styles/268x201/public/2023-03/DEI-heads-red.png?itok=3kxQeGK1 1x, /sites/default/files/styles/268x201_x2/public/2023-03/DEI-heads-red.png?itok=AFYOcBbt 2x" media="all and (max-width: 992px)" type="image/png"/>
+                  <img src="/sites/default/files/styles/640x480/public/2023-03/DEI-heads-red.png?itok=KlhnYgav" alt="Silhouettes of many heads with red overlay " />
+
+  </picture>
+
+
+      
+</div>
+          
+        </a>
+      </div>
+      
+  <div class="card__text">
+    <div class="card__date">
+              November 6, 2023
+                </div>
+    <ul class="card__tags">
+              <li class="card__tags-item"><a href="/knowledge-gateway/tags/public-financial-management-public-sector-finance" class="card__tags-item-link" title="Public Financial Management &amp; Public Sector Finance">Public Financial Management &amp; Public Sector Finance</a>
+</li>
+      <li class="card__tags-item"><a href="/knowledge-gateway/tags/sustainability/diversity" class="card__tags-item-link" title="Diversity">Diversity</a>
+</li>
+  </ul>
+
+  </div>
+    
+</article>
+
+            </li>
+                      <li class="splide__slide">
+              
+  
+
+
+  
+<article role="article" class="card card--vertical card--resource card--with-img card--layout-left">
+              <div class="card__category bg--pale-green">
+    <a href="/knowledge-gateway/contributing-global-economy" hreflang="en">Contributing to the Global Economy</a>
+  </div>
+
+  
+            <a href="/knowledge-gateway/contributing-global-economy/discussion/cfo-perspectives-creating-and-protecting-value-private-equity-funded-organizations" class="card__link" target="_self">
+        <h3 class="card__title">
+      CFO Perspectives: Creating and Protecting Value in Private Equity Funded Organizations
+    </h3>
+          </a>
+        
+            <div class="card__picture">
+        <a href="/knowledge-gateway/contributing-global-economy/discussion/cfo-perspectives-creating-and-protecting-value-private-equity-funded-organizations" target="_self">
+          
+<div>
+
+                <picture>
+                  <source srcset="/sites/default/files/styles/371x278/public/2023-11/protecting-value.jpg?itok=3ZKB4riJ 1x, /sites/default/files/styles/371x278_x2/public/2023-11/protecting-value.jpg?itok=AHmDodfk 2x" media="all and (min-width: 992px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/640x480/public/2023-11/protecting-value.jpg?itok=YaSPQPKp 1x, /sites/default/files/styles/640x480_x2/public/2023-11/protecting-value.jpg?itok=hh0-keqg 2x" media="all and (max-width: 768px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/268x201/public/2023-11/protecting-value.jpg?itok=iTUJBUq_ 1x, /sites/default/files/styles/268x201_x2/public/2023-11/protecting-value.jpg?itok=hhpIfP_V 2x" media="all and (max-width: 992px)" type="image/jpeg"/>
+                  <img src="/sites/default/files/styles/640x480/public/2023-11/protecting-value.jpg?itok=YaSPQPKp" alt="pic-protecting-value" />
+
+  </picture>
+
+
+      
+</div>
+          
+        </a>
+      </div>
+      
+  <div class="card__text">
+    <div class="card__date">
+              November 6, 2023
+                    <span class="card__meta">
+          &nbsp;|&nbsp;     <a href="/who-we-are/laura-leka" hreflang="und">Laura Leka</a>
+  
+        </span>
+          </div>
+    <ul class="card__tags">
+              <li class="card__tags-item"><a href="/knowledge-gateway/tags/cfo-finance-function/cfo" class="card__tags-item-link" title="CFO">CFO</a>
+</li>
+      <li class="card__tags-item"><a href="/knowledge-gateway/tags/cfo-finance-function/value-creation" class="card__tags-item-link" title="Value Creation">Value Creation</a>
+</li>
+  </ul>
+
+  </div>
+    
+</article>
+
+            </li>
+                      <li class="splide__slide">
+              
+  
+
+
+  
+<article role="article" class="card card--vertical card--resource card--with-img card--layout-left">
+              <div class="card__category bg--green">
+    <a href="/knowledge-gateway/supporting-international-standards" hreflang="en">Supporting International Standards</a>
+  </div>
+
+  
+            <a href="/knowledge-gateway/supporting-international-standards/discussion/3-actions-auditing-educators-prepare-proposed-new-sustainability-assurance-standard-issa-5000" class="card__link" target="_self">
+        <h3 class="card__title">
+      3 Actions for Auditing Educators to Prepare for the Proposed New Sustainability Assurance Standard, ISSA 5000
+    </h3>
+          </a>
+        
+            <div class="card__picture">
+        <a href="/knowledge-gateway/supporting-international-standards/discussion/3-actions-auditing-educators-prepare-proposed-new-sustainability-assurance-standard-issa-5000" target="_self">
+          
+<div>
+
+                <picture>
+                  <source srcset="/sites/default/files/styles/371x278/public/2023-11/College-lecture-.jpg?itok=KjLfmBqI 1x, /sites/default/files/styles/371x278_x2/public/2023-11/College-lecture-.jpg?itok=g-T4m5un 2x" media="all and (min-width: 992px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/640x480/public/2023-11/College-lecture-.jpg?itok=2yRJRKDW 1x, /sites/default/files/styles/640x480_x2/public/2023-11/College-lecture-.jpg?itok=YKFD5bJu 2x" media="all and (max-width: 768px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/268x201/public/2023-11/College-lecture-.jpg?itok=eBFxSqNH 1x, /sites/default/files/styles/268x201_x2/public/2023-11/College-lecture-.jpg?itok=u9ZzqfcQ 2x" media="all and (max-width: 992px)" type="image/jpeg"/>
+                  <img src="/sites/default/files/styles/640x480/public/2023-11/College-lecture-.jpg?itok=2yRJRKDW" alt="College lecture" />
+
+  </picture>
+
+
+      
+</div>
+          
+        </a>
+      </div>
+      
+  <div class="card__text">
+    <div class="card__date">
+              November 2, 2023
+                    <span class="card__meta">
+          &nbsp;|&nbsp;     <a href="/who-we-are/adriana-florina-popa-phd" hreflang="en">Adriana Florina Popa Ph.D.</a>, <a href="/who-we-are/greg-owens" hreflang="und">Greg Owens </a>, <a href="/who-we-are/bruce-vivian" hreflang="en">Bruce Vivian</a>
+  
+        </span>
+          </div>
+    <ul class="card__tags">
+              <li class="card__tags-item"><a href="/knowledge-gateway/tags/audit-assurance" class="card__tags-item-link" title="Audit &amp; Assurance">Audit &amp; Assurance</a>
+</li>
+      <li class="card__tags-item"><a href="/knowledge-gateway/tags/developing-future-ready-professionals" class="card__tags-item-link" title="Developing future-ready professionals">Developing future-ready professionals</a>
+</li>
+      <li class="card__tags-item"><a href="/knowledge-gateway/tags/developing-future-ready-professionals/accountancy-education" class="card__tags-item-link" title="Accountancy Education">Accountancy Education</a>
+</li>
+      <li class="card__tags-item"><a href="/knowledge-gateway/tags/developing-future-ready-professionals/career-development" class="card__tags-item-link" title="Career Development">Career Development</a>
+</li>
+  </ul>
+
+  </div>
+    
+</article>
+
+            </li>
+                      <li class="splide__slide">
+              
+  
+
+
+  
+<article role="article" class="card card--vertical card--resource card--with-img card--layout-left">
+              <div class="card__category bg--green">
+    <a href="/knowledge-gateway/supporting-international-standards" hreflang="en">Supporting International Standards</a>
+  </div>
+
+  
+            <a href="/knowledge-gateway/supporting-international-standards/discussion/latest-developments-integrated-reporting-assurance-momentum-building" class="card__link" target="_self">
+        <h3 class="card__title">
+      Latest Developments in Integrated Reporting Assurance – Momentum is Building
+    </h3>
+          </a>
+        
+            <div class="card__picture">
+        <a href="/knowledge-gateway/supporting-international-standards/discussion/latest-developments-integrated-reporting-assurance-momentum-building" target="_self">
+          
+<div>
+
+                <picture>
+                  <source srcset="/sites/default/files/styles/371x278/public/2023-10/globe-narrow.jpg?itok=mmRuAwPR 1x, /sites/default/files/styles/371x278_x2/public/2023-10/globe-narrow.jpg?itok=9etl0JgT 2x" media="all and (min-width: 992px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/640x480/public/2023-10/globe-narrow.jpg?itok=fe7R8guj 1x, /sites/default/files/styles/640x480_x2/public/2023-10/globe-narrow.jpg?itok=0JghrL3k 2x" media="all and (max-width: 768px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/268x201/public/2023-10/globe-narrow.jpg?itok=BXmduChf 1x, /sites/default/files/styles/268x201_x2/public/2023-10/globe-narrow.jpg?itok=YILCJMsR 2x" media="all and (max-width: 992px)" type="image/jpeg"/>
+                  <img src="/sites/default/files/styles/640x480/public/2023-10/globe-narrow.jpg?itok=fe7R8guj" alt="Narrow top of globe" />
+
+  </picture>
+
+
+      
+</div>
+          
+        </a>
+      </div>
+      
+  <div class="card__text">
+    <div class="card__date">
+              November 1, 2023
+                    <span class="card__meta">
+          &nbsp;|&nbsp;     <a href="/who-we-are/michael-bray" hreflang="en">Michael Bray</a>, <a href="/who-we-are/norie-takahashi" hreflang="en">Norie Takahashi </a>, <a href="/who-we-are/leadership/stathis-gould" hreflang="und">Stathis Gould</a>
+  
+        </span>
+          </div>
+    <ul class="card__tags">
+              <li class="card__tags-item"><a href="/knowledge-gateway/tags/business-reporting/integrated-reporting" class="card__tags-item-link" title="Integrated Reporting">Integrated Reporting</a>
+</li>
+  </ul>
+
+  </div>
+    
+</article>
+
+            </li>
+                      <li class="splide__slide">
+              
+  
+
+
+  
+<article role="article" class="card card--vertical card--resource card--with-img card--layout-left">
+              <div class="card__category bg--pale-green">
+    <a href="/knowledge-gateway/contributing-global-economy" hreflang="en">Contributing to the Global Economy</a>
+  </div>
+
+  
+            <a href="/knowledge-gateway/contributing-global-economy/discussion/developments-global-sustainability-reporting-priority-accountancy-profession" class="card__link" target="_self">
+        <h3 class="card__title">
+      Developments in Global Sustainability Reporting: A Priority for the Accountancy Profession 
+    </h3>
+          </a>
+        
+            <div class="card__picture">
+        <a href="/knowledge-gateway/contributing-global-economy/discussion/developments-global-sustainability-reporting-priority-accountancy-profession" target="_self">
+          
+<div>
+
+                <picture>
+                  <source srcset="/sites/default/files/styles/371x278/public/2023-10/ifac-paib-sustainability.jpg?itok=nLd-bG4v 1x, /sites/default/files/styles/371x278_x2/public/2023-10/ifac-paib-sustainability.jpg?itok=PMpx050M 2x" media="all and (min-width: 992px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/640x480/public/2023-10/ifac-paib-sustainability.jpg?itok=xPGJAxVB 1x, /sites/default/files/styles/640x480_x2/public/2023-10/ifac-paib-sustainability.jpg?itok=-uutD_BD 2x" media="all and (max-width: 768px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/268x201/public/2023-10/ifac-paib-sustainability.jpg?itok=8aPpP2pV 1x, /sites/default/files/styles/268x201_x2/public/2023-10/ifac-paib-sustainability.jpg?itok=98mFu1b4 2x" media="all and (max-width: 992px)" type="image/jpeg"/>
+                  <img src="/sites/default/files/styles/640x480/public/2023-10/ifac-paib-sustainability.jpg?itok=xPGJAxVB" alt="pic-ifac-sustainability-mountain-clouds-paib" />
+
+  </picture>
+
+
+      
+</div>
+          
+        </a>
+      </div>
+      
+  <div class="card__text">
+    <div class="card__date">
+              November 1, 2023
+                    <span class="card__meta">
+          &nbsp;|&nbsp;     <a href="/who-we-are/leadership/stathis-gould" hreflang="und">Stathis Gould</a>
+  
+        </span>
+          </div>
+    <ul class="card__tags">
+              <li class="card__tags-item"><a href="/knowledge-gateway/tags/cfo-finance-function/integrated-thinking" class="card__tags-item-link" title="Integrated Thinking">Integrated Thinking</a>
+</li>
+      <li class="card__tags-item"><a href="/knowledge-gateway/tags/cfo-finance-function/paib" class="card__tags-item-link" title="PAIB">PAIB</a>
+</li>
+      <li class="card__tags-item"><a href="/knowledge-gateway/tags/sustainability" class="card__tags-item-link" title="Sustainability">Sustainability</a>
+</li>
+      <li class="card__tags-item"><a href="/knowledge-gateway/tags/sustainability/sustainability-reporting" class="card__tags-item-link" title="Sustainability Reporting">Sustainability Reporting</a>
+</li>
+  </ul>
+
+  </div>
+    
+</article>
+
+            </li>
+                  </ul>
+      </div>
+      </section>
+</div>
+
+          
+
+
+<section class="banner ">
+  <div class="wrapper container-fluid middle-xs">
+    <div class="row start-xs">
+      
+
+      
+      
+      
+                            
+      <div class="
+        col
+        col-xs-12
+        col-md-6
+        banner__blurb-wrap
+        banner__blurb-wrap--0
+      ">
+        <div  class="banner__blurb banner__blurb--bg banner__blurb--bg-blue">
+            <h2 class="banner__headline">
+    
+            <div>e-International Standards</div>
+      
+  </h2>
+  <p class="banner__subtle h3">
+    Digital access to IAASB, IESBA, and IPSASB standards
+  </p>
+  
+            <a href="https://eis.international-standards.org/" class="btn btn--link">
+        <span class="btn__text">
+          Access the platform
+        </span>
+      </a>
+      
+
+
+        </div>
+      </div>
+      
+    </div>
+  </div>
+  
+            <div>
+
+
+                <picture>
+                  <source srcset="/sites/default/files/styles/1920xauto/public/eis-banner.jpg?itok=uEhMYFjB 1x, /sites/default/files/styles/1920xauto_x2/public/eis-banner.jpg?itok=bJcz6gX2 2x" media="all and (min-width: 1440px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/1440xauto/public/eis-banner.jpg?itok=PiPICguJ 1x, /sites/default/files/styles/1440xauto_x2/public/eis-banner.jpg?itok=T6hyjNd7 2x" media="all and (min-width: 1200px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/1200xauto/public/eis-banner.jpg?itok=QC7Yw3LQ 1x, /sites/default/files/styles/1200xauto_x2/public/eis-banner.jpg?itok=ccon6Fxw 2x" media="all and (min-width: 992px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/768xauto/public/eis-banner.jpg?itok=f9AzmX43 1x, /sites/default/files/styles/768xauto_x2/public/eis-banner.jpg?itok=OO0kGEKV 2x" media="all and (max-width: 768px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/992xauto/public/eis-banner.jpg?itok=3cDPRl1X 1x, /sites/default/files/styles/992xauto_x2/public/eis-banner.jpg?itok=xvhWGhIC 2x" media="all and (max-width: 992px)" type="image/jpeg"/>
+                  <img src="/sites/default/files/styles/1200xauto/public/eis-banner.jpg?itok=QC7Yw3LQ" />
+
+  </picture>
+
+
+      
+</div>
+      
+</section>
+
+          
+<div  class="paragraph--callout-grid">
+  <h3></h3>
+  <div class="row callout-grid">
+    
+
+            <div class="paragraph--callout-grid__item col-xs-12 col-md-6">
+        
+
+
+
+<div class="paragraph paragraph--type--callout paragraph--view-mode--grid callout callout--align-left callout--bg- callout--icon- callout--layout-centered callout--link callout--bg-image" style="background-image:url(/sites/default/files/PATHWAYS-TO-ACCRUAL-1280-x-900-px_0.png)">
+        
+                  <a href="https://pathways.ifac.org" class="callout__link" target="_blank">
+        <span class="visually-hidden">https://pathways.ifac.org</span>
+      </a>
+      
+    <div class="callout__content">
+    
+            <h2 class="callout__heading">Explore Pathways to Accrual</h2>
+      
+  </div>
+</div>
+
+      </div>
+          <div class="paragraph--callout-grid__item col-xs-12 col-md-6">
+        
+
+
+
+<div class="paragraph paragraph--type--callout paragraph--view-mode--grid callout callout--align-left callout--bg- callout--icon- callout--layout-centered callout--link callout--bg-image" style="background-image:url(/sites/default/files/GettyImages-672463276.jpg)">
+        
+                  <a href="https://www.international-standards.org/" class="callout__link" target="_blank">
+        <span class="visually-hidden">https://www.international-standards.org/</span>
+      </a>
+      
+    <div class="callout__content">
+    
+            <h2 class="callout__heading">Visit the Independent Standards-Setting Boards</h2>
+      
+  </div>
+</div>
+
+      </div>
+      
+  </div>
+</div>
+
+          
+
+
+
+
+<div data-mobile_breakpoint="992" class="paragraph paragraph--type--carousel-feature-cards paragraph--view-mode--default carousel carousel--feature carousel--no-title">
+  <section class="splide">
+    
+    <div class="splide__track">
+      <ul class="splide__list">
+                  
+            
+  
+
+
+
+    
+  <li class="splide__slide">
+    <div class="card card--feature card--with-img">
+              <a class="card__link-wrap" href="/what-we-do/speaking-out-global-voice">Learn More</a>
+                    <div class="card__picture ">
+          
+            
+
+
+                <picture>
+                  <source srcset="/sites/default/files/styles/468x468/public/2023-03/speaking-out-global-voice-crop.jpg?itok=VZGcVJJo 1x, /sites/default/files/styles/468x468_x2/public/2023-03/speaking-out-global-voice-crop.jpg?itok=4gBW4yWm 2x" media="all and (min-width: 992px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/715x715/public/2023-03/speaking-out-global-voice-crop.jpg?itok=71ZUvZZb 1x, /sites/default/files/styles/715x715_x2/public/2023-03/speaking-out-global-voice-crop.jpg?itok=hfVfFnmn 2x" media="all and (max-width: 768px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/991x991/public/2023-03/speaking-out-global-voice-crop.jpg?itok=bGZzFw4Y 1x, /sites/default/files/styles/991x991_x2/public/2023-03/speaking-out-global-voice-crop.jpg?itok=d9ZNAn8P 2x" media="all and (max-width: 992px)" type="image/jpeg"/>
+                  <img src="/sites/default/files/styles/991x991/public/2023-03/speaking-out-global-voice-crop.jpg?itok=bGZzFw4Y" alt="Man standing, leaning on table of colleagues, speaking" />
+
+  </picture>
+
+
+      
+
+      
+        </div>
+            <div  class="card__text card__text--align-left card__text--color-white">
+        
+            <h3 class="card__title">The Voice of the Global Profession</h3>
+      
+            <div class="card__description"><p>We speak on the global stage about issues impacting the accountancy profession, spanning technology, policy, governance, international standards, a future-ready workforce, and more.</p></div>
+      
+                      </div>
+    </div>
+  </li>
+
+          
+  
+
+
+
+    
+  <li class="splide__slide">
+    <div class="card card--feature card--with-img">
+              <a class="card__link-wrap" href="/what-we-do/global-impact-map/members-associates"></a>
+                    <div class="card__picture ">
+          
+            
+
+
+                <picture>
+                  <source srcset="/sites/default/files/styles/468x468/public/hero/IFAC-global-impact-map.jpg?itok=6KKAkYcS 1x, /sites/default/files/styles/468x468_x2/public/hero/IFAC-global-impact-map.jpg?itok=7rhrg6zI 2x" media="all and (min-width: 992px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/715x715/public/hero/IFAC-global-impact-map.jpg?itok=AEDCzoN7 1x, /sites/default/files/styles/715x715_x2/public/hero/IFAC-global-impact-map.jpg?itok=c6Ffzr_M 2x" media="all and (max-width: 768px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/991x991/public/hero/IFAC-global-impact-map.jpg?itok=HyXWGBCM 1x, /sites/default/files/styles/991x991_x2/public/hero/IFAC-global-impact-map.jpg?itok=m4to0f4N 2x" media="all and (max-width: 992px)" type="image/jpeg"/>
+                  <img src="/sites/default/files/styles/991x991/public/hero/IFAC-global-impact-map.jpg?itok=HyXWGBCM" />
+
+  </picture>
+
+
+      
+
+      
+        </div>
+            <div  class="card__text card__text--align-left card__text--color-white">
+        
+            <h3 class="card__title">Global Impact Map</h3>
+      
+            <div class="card__description"><p>Your access point to learn more about the adoption of international standards</p></div>
+      
+                      </div>
+    </div>
+  </li>
+
+          
+  
+
+
+
+    
+  <li class="splide__slide">
+    <div class="card card--feature card--with-img">
+              <a class="card__link-wrap" href="/what-we-do/supporting-international-standards"></a>
+                    <div class="card__picture ">
+          
+            
+
+
+                <picture>
+                  <source srcset="/sites/default/files/styles/468x468/public/2023-02/Supporting-Intl-Standards-hero-crop_0.jpg?itok=p9CXWbWj 1x, /sites/default/files/styles/468x468_x2/public/2023-02/Supporting-Intl-Standards-hero-crop_0.jpg?itok=gt__uxi- 2x" media="all and (min-width: 992px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/715x715/public/2023-02/Supporting-Intl-Standards-hero-crop_0.jpg?itok=kK2Hq3dk 1x, /sites/default/files/styles/715x715_x2/public/2023-02/Supporting-Intl-Standards-hero-crop_0.jpg?itok=SLU5tf_S 2x" media="all and (max-width: 768px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/991x991/public/2023-02/Supporting-Intl-Standards-hero-crop_0.jpg?itok=4XLWhX1W 1x, /sites/default/files/styles/991x991_x2/public/2023-02/Supporting-Intl-Standards-hero-crop_0.jpg?itok=4AlS69rq 2x" media="all and (max-width: 992px)" type="image/jpeg"/>
+                  <img src="/sites/default/files/styles/991x991/public/2023-02/Supporting-Intl-Standards-hero-crop_0.jpg?itok=4XLWhX1W" alt="Neon colors, space tunnel" />
+
+  </picture>
+
+
+      
+
+      
+        </div>
+            <div  class="card__text card__text--align-left card__text--color-white">
+        
+            <h3 class="card__title">Supporting International Standards</h3>
+      
+            <div class="card__description"><p>We contribute to and promote the development, adoption, and implementation of high-quality international standards</p></div>
+      
+                      </div>
+    </div>
+  </li>
+
+          
+  
+
+
+
+    
+  <li class="splide__slide">
+    <div class="card card--feature card--with-img">
+              <a class="card__link-wrap" href="/what-we-do/preparing-future-ready-profession"></a>
+                    <div class="card__picture ">
+          
+            
+
+
+                <picture>
+                  <source srcset="/sites/default/files/styles/468x468/public/2023-02/Preparing-future-ready-profession-hero-crop-3.jpg?itok=ib1n8Old 1x, /sites/default/files/styles/468x468_x2/public/2023-02/Preparing-future-ready-profession-hero-crop-3.jpg?itok=pUs8CwH8 2x" media="all and (min-width: 992px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/715x715/public/2023-02/Preparing-future-ready-profession-hero-crop-3.jpg?itok=FL1d3G4H 1x, /sites/default/files/styles/715x715_x2/public/2023-02/Preparing-future-ready-profession-hero-crop-3.jpg?itok=4wwx3EuE 2x" media="all and (max-width: 768px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/991x991/public/2023-02/Preparing-future-ready-profession-hero-crop-3.jpg?itok=cpQ09jW- 1x, /sites/default/files/styles/991x991_x2/public/2023-02/Preparing-future-ready-profession-hero-crop-3.jpg?itok=tGiYhoyH 2x" media="all and (max-width: 992px)" type="image/jpeg"/>
+                  <img src="/sites/default/files/styles/991x991/public/2023-02/Preparing-future-ready-profession-hero-crop-3.jpg?itok=cpQ09jW-" alt="Man teaching two older people in a classroom, windmill in hand" />
+
+  </picture>
+
+
+      
+
+      
+        </div>
+            <div  class="card__text card__text--align-left card__text--color-white">
+        
+            <h3 class="card__title">Preparing a Future-Ready Profession</h3>
+      
+            <div class="card__description"><p>We play an important role in equipping professional accountants and professional accountancy organizations for the future</p></div>
+      
+                      </div>
+    </div>
+  </li>
+
+      
+              </ul>
+    </div>
+  </section>
+</div>
+
+          
+<div  class="paragraph--callout-grid">
+  <h3></h3>
+  <div class="row callout-grid">
+    
+
+            <div class="paragraph--callout-grid__item col-xs-12 col-md-4">
+        
+
+
+
+<div class="paragraph paragraph--type--callout paragraph--view-mode--grid callout callout--align-left callout--bg- callout--icon- callout--layout-default" style="background-image:url()">
+      <div class="callout__content">
+    
+            <h2 class="callout__heading">Log in or Register</h2>
+      
+            <div class="callout__body"><p>Manage subscriptions, submit translations and permissions requests, nominate a board or committee member, and more.</p></div>
+      
+<div class="callout__buttons">
+          <a
+      href="https://members.ifac.org/IFAC/WEB/SignIn"
+      class="btn btn--primary btn--full"
+    >
+                        <span class="btn__text">Login / Register</span>
+    </a>
+  </div>
+
+  </div>
+</div>
+
+      </div>
+          <div class="paragraph--callout-grid__item col-xs-12 col-md-4">
+        
+
+
+
+<div class="paragraph paragraph--type--callout paragraph--view-mode--grid callout callout--align-left callout--bg- callout--icon- callout--layout-default" style="background-image:url()">
+      <div class="callout__content">
+    
+            <h2 class="callout__heading">Membership</h2>
+      
+            <div class="callout__body"><p>Get more information on our member organizations.</p></div>
+      
+<div class="callout__buttons">
+          <a
+      href="/who-we-are/membership"
+      class="btn btn--primary btn--full"
+    >
+                        <span class="btn__text">Learn More</span>
+    </a>
+  </div>
+
+  </div>
+</div>
+
+      </div>
+          <div class="paragraph--callout-grid__item col-xs-12 col-md-4">
+        
+
+
+
+<div class="paragraph paragraph--type--callout paragraph--view-mode--grid callout callout--align-left callout--bg- callout--icon- callout--layout-default" style="background-image:url()">
+      <div class="callout__content">
+    
+            <h2 class="callout__heading">Translations &amp; Permissions</h2>
+      
+            <div class="callout__body"><p>Looking to reproduce the standards for your members? Want to include IFAC's publications in your training materials or university course? Learn how we can help.</p></div>
+      
+<div class="callout__buttons">
+          <a
+      href="/who-we-are/operations"
+      class="btn btn--primary btn--full"
+    >
+                        <span class="btn__text">IP permissions and policies</span>
+    </a>
+  </div>
+
+  </div>
+</div>
+
+      </div>
+      
+  </div>
+</div>
+
+      
+  </div>
+
+</article>
+
+  </div>
+
+  </div>
+
+      </div>
+    
+      </div>
+</main>
+
+
+
+  <footer role="contentinfo" class="site-footer">
+      <div class="region region-footer wrapper container-fluid">
+    
+<div id="block-ifacfooter" class="row">
+  
+    
+      <div class="col-md-4 col-xs-12 last-md row end-md col-grow">
+      
+            
+
+
+  <ul class="paragraph paragraph--type--social-links paragraph--view-mode--default social-links">
+          
+      <li class="social-links__item">
+      <a href="http://www.facebook.com/InternationalFederationOfAccountants" class="social-links__link" target="_blank">
+        <svg class="icon" aria-hidden="true">
+  <use xlink:href="/themes/custom/ifac_theme/images/svg/icons-sprite.svg#icons--facebook"></use>
+</svg>
+      </a>
+    </li>
+  
+      <li class="social-links__item">
+      <a href="http://twitter.com/IFAC" class="social-links__link" target="_blank">
+        <svg class="icon" aria-hidden="true">
+  <use xlink:href="/themes/custom/ifac_theme/images/svg/icons-sprite.svg#icons--twitter"></use>
+</svg>
+      </a>
+    </li>
+  
+      <li class="social-links__item">
+      <a href="https://www.linkedin.com/company/ifac" class="social-links__link" target="_blank">
+        <svg class="icon" aria-hidden="true">
+  <use xlink:href="/themes/custom/ifac_theme/images/svg/icons-sprite.svg#icons--linkedin"></use>
+</svg>
+      </a>
+    </li>
+  
+      <li class="social-links__item">
+      <a href="http://www.youtube.com/user/IFACMultimedia" class="social-links__link" target="_blank">
+        <svg class="icon" aria-hidden="true">
+  <use xlink:href="/themes/custom/ifac_theme/images/svg/icons-sprite.svg#icons--youtube"></use>
+</svg>
+      </a>
+    </li>
+  
+<li class="social-links__item">
+  <a href="#" class="social-links__link js-social-links__link--rss">
+    <svg class="icon" aria-hidden="true">
+  <use xlink:href="/themes/custom/ifac_theme/images/svg/icons-sprite.svg#icons--rss"></use>
+</svg>
+  </a>
+</li>
+
+<div class="social-links--rss-box">
+  <svg class="icon" aria-hidden="true">
+  <use xlink:href="/themes/custom/ifac_theme/images/svg/icons-sprite.svg#icons--close"></use>
+</svg>
+  <span>Click to subscribe to a feed...</span>
+  <ul>
+          <li class="social-links__item--rss">
+        <a href="http://feeds.feedburner.com/ifac-publications" class="social-links__link--rss">
+          <svg class="icon" aria-hidden="true">
+  <use xlink:href="/themes/custom/ifac_theme/images/svg/icons-sprite.svg#icons--rss"></use>
+</svg>
+          <span>Publications &amp; Resources</span>
+        </a>
+      </li>
+          <li class="social-links__item--rss">
+        <a href="http://feeds.feedburner.com/ifac-spotlight" class="social-links__link--rss">
+          <svg class="icon" aria-hidden="true">
+  <use xlink:href="/themes/custom/ifac_theme/images/svg/icons-sprite.svg#icons--rss"></use>
+</svg>
+          <span>Spotlight News</span>
+        </a>
+      </li>
+          <li class="social-links__item--rss">
+        <a href="http://feeds.feedburner.com/ifac-news" class="social-links__link--rss">
+          <svg class="icon" aria-hidden="true">
+  <use xlink:href="/themes/custom/ifac_theme/images/svg/icons-sprite.svg#icons--rss"></use>
+</svg>
+          <span>News &amp; Events</span>
+        </a>
+      </li>
+      </ul>
+</div>
+
+      <li class="social-links__item">
+      <a href="https://itunes.apple.com/us/podcast/ifac-accountancy-podcast/id676194815" class="social-links__link" target="_blank">
+        <svg class="icon" aria-hidden="true">
+  <use xlink:href="/themes/custom/ifac_theme/images/svg/icons-sprite.svg#icons--music"></use>
+</svg>
+      </a>
+    </li>
+  
+      </ul>
+
+      
+    </div>
+    <div class="col-md-8 col-xs-12">
+      
+            <h4>Get the latest updates delivered to your inbox.</h4>
+      
+            <div><p><a href="https://members.ifac.org/IFAC/WEB/Subscriptions#vaff">Manage your subscriptions</a>.</p>
+
+<p>Copyright © 2022 International Federation of Accountants. All rights reserved. Any person accessing this site agrees to the <a href="https://www.ifac.org/terms-use">Terms of Use</a> and <a href="https://ifac.org/privacy-policy">Privacy Policy</a>. Contact <a href="mailto:permissions@ifac.org">permissions@ifac.org</a> for permission to reproduce, store, translate or transmit this document.</p>
+
+<p>International Federation of Accountants<br />
+Tel: +1 (212) 286-9344<br />
+529 5th Avenue<br />
+New York, New York 10017</p></div>
+      
+    </div>
+  </div>
+
+  </div>
+
+  </footer>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/836","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"dataLayer":{"defaultLang":"en","languages":{"en":{"id":"en","name":"English","direction":"ltr","weight":0}}},"ajaxTrustedUrl":{"\/knowledge-gateway\/view-all-knowledge-gateway-data":true,"\/search":true},"user":{"uid":0,"permissionsHash":"f59d2252d3a58e94d28f0f0dd2aa6dee1aad9e7b33a1e725e12e2a6202b06b6c"}}</script>
+<script src="/sites/default/files/js/js_YMF6a3TIgvL3ZJtU-UNQIwIEJ9WE85MPIkqbU6CCQMQ.js"></script>
+<script src="https://translate.google.com/translate_a/element.js?cb=Drupal.behaviors.GoogleTranslateElement.init"></script>
+<script src="/sites/default/files/js/js_kvTj4x5AVy-USOemn9kRnxkX1nUuZ5QTr7NuogOshDA.js"></script>
+<script src="/themes/custom/ifac_theme/js/components/Carousel/Carousel.js?s4koxr" type="module"></script>
+<script src="/themes/custom/ifac_theme/js/components/Carousel/Carousel-additional.js?s4koxr" type="module"></script>
+<script src="/themes/custom/ifac_theme/js/components/SearchForm/SearchForm.js?s4koxr" type="module"></script>
+<script src="/themes/custom/ifac_theme/js/components/Header/Header.js?s4koxr" type="module"></script>
+
+  </body>
+</html>
